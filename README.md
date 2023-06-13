@@ -1,10 +1,10 @@
 
 
-👋 Hi, I’m @Somesh5723
-👀 I’m interested in problem-solving in DSA and Web Development.
-🌱 I’m working on sharpening my DSA and web development skills.
-💞️ I’m looking to collaborate on web development projects.
-📫 How to reach me via my mail: s2somesh237@gmail.com || somesh.yadav.lko@gmail.com.
+-👋 Hi, I’m @Somesh5723
+-👀 I’m interested in problem-solving in DSA and Web Development.
+-🌱 I’m working on sharpening my DSA and web development skills.
+-💞️ I’m looking to collaborate on web development projects.
+-📫 How to reach me via my mail: s2somesh237@gmail.com || somesh.yadav.lko@gmail.com.
 
 <!--
 **Somesh5723/Somesh5723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
